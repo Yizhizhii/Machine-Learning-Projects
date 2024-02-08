@@ -1,4 +1,4 @@
-# Tongji University's Fall Semester 2023 Machine Learning Course Project ✨✨
+# Tongji University's Fall Semester 2023 Machine Learning Course Projects ✨✨
 We completed projects in three areas: *regression prediction*, *supervised learning classification* and *unsupervised clustering*:
 
 - **Project 01**, we manually implemented a simple linear regression algorithm model and conducted a longitudinal comparison of various existing machine learning methods to predict car prices. (Dataset source: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data). 
