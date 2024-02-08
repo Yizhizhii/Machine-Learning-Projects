@@ -1,0 +1,27 @@
+{'eval_loss': 0.17890506982803345,
+ 'eval_f1': 0.8811364514027016,
+ 'eval_runtime': 1.019,
+ 'eval_samples_per_second': 1962.671,
+ 'eval_steps_per_second': 61.824}
+
+{'eval_loss': 0.17890506982803345,
+ 'eval_accuracy': 0.9245,
+ 'eval_runtime': 2.0425,
+ 'eval_samples_per_second': 979.207,
+ 'eval_steps_per_second': 30.845}
+
+
+macro:
+{'eval_loss': 0.17890506982803345,
+ 'eval_precision': 0.8776946600593405,
+ 'eval_runtime': 2.0678,
+ 'eval_samples_per_second': 967.195,
+ 'eval_steps_per_second': 30.467}
+
+None:
+{'eval_loss': 0.17890506982803345,
+ 'eval_precision': array([0.97202797, 0.94358251, 0.89705882, 0.90875912, 0.88181818,
+        0.66292135]),
+ 'eval_runtime': 1.0173,
+ 'eval_samples_per_second': 1966.046,
+ 'eval_steps_per_second': 61.93}
